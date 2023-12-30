@@ -1,0 +1,5 @@
+#define VERSION "1.0.3"
+#define COMPILER "gcc (GCC) 7.3.1 20180303 (Red Hat 7.3.1-5) -W -Wall -O3 -DCOMPACT -DNEMBEDDED -DNDEBUG -DNMETRICS -DQUIET -DNSTATISTICS -lfto -march=native"
+#define ID "79d8d8f20465e71fd2b0f193b468898cd803a59a"
+#define BUILD "Sun Apr 30 12:10:11 CDT 2023 Linux n113.star.cs.uiowa.edu 3.10.0-1160.62.1.el7.x86_64 x86_64"
+#define DIR "/export/starexec/sandbox/solver/sources/build"
