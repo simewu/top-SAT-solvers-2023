@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./cadical --bcprlbetadecay=950 --bcprlscoredecay=950 $1 $2/proof.out
