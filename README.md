@@ -9,14 +9,14 @@ The winners of the main track were:
 2. [Kissat MAB prop](https://tuhat.helsinki.fi/ws/files/269128852/sc2023_proceedings.pdf#page=16)
 3. [Maple CaDiCaL PPD 500 500](https://tuhat.helsinki.fi/ws/files/269128852/sc2023_proceedings.pdf#page=30)
 
-![](main-track.png)
-
-##SAT Winner Details
+## SAT Winner Details
 |   | Solver                    | Authors                                   | PAR-2   | Solved |
 |---|---------------------------|-------------------------------------------|---------|--------|
 | 1 | sbva_cadical              | Andrew Haberlandt and Harrison Green      | 3274.01 | 284    |
 | 2 | kissat_mab_prop           | Yu Gao                                    | 3596.73 | 272    |
 | 3 | maple_cadical_ppd_500_500 | Jonathan Chung, Sam Buss and Vijay Ganesh | 3933.51 | 260    |
+
+![](main-track.png)
 
 The source code of the solvers was taken from the [SAT 2021 repository](https://github.com/satcompetition/2023/blob/main/downloads/Sequential.tar.xz).
 
