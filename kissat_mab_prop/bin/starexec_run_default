@@ -1,2 +1,0 @@
-#!/bin/sh
-exec ./kissat $1 $2/proof.out --binary=true --walkstrategy=0 --symmetry=true
